@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrfuzzz
+- 👀 I’m interested in Artificial Intelligent
+- 🌱 I’m currently learning Python
+- 📫 DM me on Discord Mr_FuzzzZ#8513

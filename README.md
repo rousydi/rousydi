@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrfuzzz You can call me Rousydi or Fuzzz
-- 👀 I’m interested in Artificial Intelligent
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @rousydi You can call me Rousydi or Fuzzz
+- 👀 I’m interested in Artificial Intelligent & Data Engineering
+- 🌱 I’m currently learning Machine Learning With Python
 - 📫 DM me on Discord Mr_FuzzzZ#8513
